@@ -5,7 +5,7 @@
 
 - 🔭 I’m Pursing as a **Student**
 
-- 🌱 I’m currently learning **HTML,CSS,JAVA**
+- 🌱 I’m currently learning **HTML,CSS,Java Script,Java**
 
 - 💬 Ask me about **HTML5,JAVA**
 
