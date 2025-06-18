@@ -5,7 +5,7 @@
 
 - 🔭 I’m looking for an opportunity as a **Fresher**
 
-- 🌱 I’ve Internship Experience in Salesforce Developer  **HTML,CSS,Java Script,Java**
+- 🌱 I’ve Internship Experience in **Salesforce Developer** And **Java Full Stack Development By KodNest**
 
 - 💬 Ask me about **HTML5,JAVA**
 
