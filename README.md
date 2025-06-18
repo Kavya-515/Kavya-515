@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya-515&label=Profile%20views&color=0e75b6&style=flat" alt="kavya-515" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
 
-- 🔭 I’m Pursing as a **Student**
+- 🔭 I’m looking for an opportunity as a **Fresher**
 
-- 🌱 I’m currently learning **HTML,CSS,Java Script,Java**
+- 🌱 I’ve Internship Experience in Salesforce Developer  **HTML,CSS,Java Script,Java**
 
 - 💬 Ask me about **HTML5,JAVA**
 
