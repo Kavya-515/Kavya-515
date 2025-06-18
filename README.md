@@ -7,7 +7,7 @@
 
 - 🌱 I’ve Internship Experience in **Salesforce Developer** And **Java Full Stack Development By KodNest**
 
-- 💬 Ask me about **HTML5,JAVA**
+- 💬 Ask me about **JAVA, Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
